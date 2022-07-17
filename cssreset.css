@@ -191,11 +191,11 @@ h2{
     flex-wrap: wrap;
 }
 .img2{
-    background: url(/brand_img2.png) center center;
+    background: url(brand_img2.png) center center;
     block-size: cover;
 }
 .img3{
-    background: url(/brand_img3.png) center center;
+    background: url(brand_img3.png) center center;
     block-size: cover;
 }
 .img2,.img3{
